@@ -14,7 +14,7 @@ module.exports.config = {
   credits: "dipto",
   description: "Displays TikTok video for selection.",
   usePrefix: true,
-  prfix: true,
+  prefix: true,
   category: "Media",
   commandCategory: "Media",
   usages: "[username] [limit]",
