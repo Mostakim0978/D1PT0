@@ -655,8 +655,8 @@
       "status": "on"
     },
     {
-       "cmd": "tempmail_goat",
-      "author": "Nyx",
+       "cmd": "help_gost",
+      "author": "Mostakim",
       "update": "11/15/2024",
       "status": "on"
     }
