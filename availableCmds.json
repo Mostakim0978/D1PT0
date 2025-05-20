@@ -677,6 +677,12 @@
       "author": "Mostakim",
       "update": "11/15/2024",
       "status": "on"
+    },
+    {
+       "cmd": "bank_goat.js",
+      "author": "Mostakim",
+      "update": "11/15/2024",
+      "status": "on"
     }
   ]
 }
