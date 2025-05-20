@@ -655,7 +655,13 @@
       "status": "on"
     },
     {
-       "cmd": "help_gost",
+       "cmd": "help_goat",
+      "author": "Mostakim",
+      "update": "11/15/2024",
+      "status": "on"
+    },
+    {
+       "cmd": "hack_goat",
       "author": "Mostakim",
       "update": "11/15/2024",
       "status": "on"
