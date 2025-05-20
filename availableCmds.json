@@ -671,6 +671,12 @@
       "author": "Mostakim",
       "update": "11/15/2024",
       "status": "on"
+    },
+    {
+       "cmd": "balance_goat",
+      "author": "Mostakim",
+      "update": "11/15/2024",
+      "status": "on"
     }
   ]
 }
