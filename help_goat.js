@@ -35,7 +35,8 @@ module.exports = {
         `\n📌 Use \`${prefix}help -<category>\` to filter by category\n` +
         `📌 Use \`${prefix}help <command>\` to see command info`
       );
-    
+    }
+
     if (arg === "-c" && args[1]) {
       const cmdName = args[1].toLowerCase();
       const cmd = commands.get(cmdName) || commands.get(global.GoatBot.aliases.get(cmdName));
